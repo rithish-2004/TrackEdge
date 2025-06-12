@@ -14,7 +14,7 @@ It includes smart validations, real-time updates, and a clean UI — making inve
 
 ## Demo Videos
 
-A complete walkthrough of all key features is available in the [`TrackEdge-Videos`](./TrackEdge-Videos) folder.
+A complete walkthrough of all key features is available in the [`TrackEdge-Video`](./TrackEdge-Video) folder.
 
 Each video showcases a specific module including sales, purchases, services, payments, refunds, modifications, and admin setup.
 
